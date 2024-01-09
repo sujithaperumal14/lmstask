@@ -1,0 +1,93 @@
+@{
+    ViewData["Title"] = "Categories";
+}
+<html>
+<head>
+<style>
+table, td, th {
+  text-align: center;
+  border: 1px solid white;
+  align-items: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 80%;
+  text-align: center;
+}
+
+td {
+  text-align: center;
+}
+table.center {
+  margin-left: auto; 
+  margin-right: auto;
+}
+h2 {
+  color: rgb(0, 0, 0);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 300%;
+  text-align:center;
+
+}
+</style>
+</head>
+ <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-light  ">
+            <div class="container-fluid">
+                <img src="https://th.bing.com/th/id/OIP.c7gLBJpEuUBJ0qsmkcCQgwAAAA?pid=ImgDet&rs=1" style="height:60px;width:140px"  alt="LOGO">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">IDENTITY MANAGEMENT</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse  justify-content-between">
+                    <ul class="navbar-nav ">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index"><b>Home</b></a>
+                        </li></ul>
+                          </ul>
+                              </div>
+                         
+                          <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav ">
+                    
+                        
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Login" asp-action="Index" ><img src="https://cdn.onlinewebfonts.com/svg/img_241918.png"style="height:30px;width:30px"><b>Login</b></a>
+                        </li>
+                    </ul>
+                </div>
+                        </div>
+                  
+            </div>
+        </nav>
+    </header>
+<body>
+
+<h2 style="text-align: center;">Login</h2><br>
+
+<table class="center">
+  <tr>
+    <th><img src="https://clipground.com/images/csharp-png-4.png"style="height:150px;width=200"></th>
+    <th><img src="https://logos-marques.com/wp-content/uploads/2021/03/Java-Logo-1996.png" style="height:150px;width=200"></th>
+    <th><img src="https://th.bing.com/th/id/R.ef1d665c19f4169b515fcad6dfefe864?rik=k28Qc1m%2bVClWJA&riu=http%3a%2f%2fcomputerprogrammingsteppingstone.weebly.com%2fuploads%2f7%2f0%2f2%2f4%2f7024958%2f523939510.png%3f222&ehk=RW1o0bmbJIinbHe%2fc0Q8BXKdMSVgJq0NAU3D9HiOQHE%3d&risl=&pid=ImgRaw&r=0" style="height:150px;width=200"></th>
+    <th><img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo.png" style="height:150px;width=200"></th>
+  //https://th.bing.com/th/id/R.b1ac51716eddaadd931bb1b5154b2b7c?rik=mjJOx%2b33mFIBqQ&riu=http%3a%2f%2fwww.oz1consulting.com%2fwp-content%2fuploads%2f2013%2f09%2fproject-management-icon-t_0.png&ehk=0Xp1Fle9jsy7WGbCX%2bQ1wXe0qTmosgrAMPiR1FQ%2fKok%3d&risl=&pid=ImgRaw&r=0
+  </tr><br>
+  
+  <tr>
+    
+    <td><a class="btn btn-outline-primary" asp-area="" asp-controller="Book" asp-action="Index">CSharpBook</a></td>
+    <td><a class="btn btn-outline-primary" asp-area="" asp-controller="Book" asp-action="Index">CSharpBook</a></td>
+    <td><a class="btn btn-outline-primary" asp-area="" asp-controller="Book" asp-action="Index">CSharpBook</a></td>
+    <td><a class="btn btn-outline-primary" asp-area="" asp-controller="Book" asp-action="Index">CSharpBook</a></td>
+    
+  </tr>
+ 
+</table>
+
+</body>
+</html>
+
+

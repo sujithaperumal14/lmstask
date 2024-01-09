@@ -1,0 +1,26 @@
+@model OrderEntity
+<div class="row">
+    <div clasclass="col-md-4">
+        <form asp-action="InitiateOrder">
+            <div class="form-group">
+                <label asp-for="Name"class="form-control"></label>
+                <input asp-for="Name" class="form-control"/>
+            </div>
+            <div class="form-group">
+                <label asp-for="Mobile"class="form-control"></label>
+                <input asp-for="Mobile" class="form-control"/>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email"class="form-control"></label>
+                <input asp-for="Email" class="form-control"/>
+            </div>
+            <div class="form-group">
+                <label asp-for="Total_amt"class="form-control"></label>
+                <input asp-for="Total_amt" class="form-control"/>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Continue to pay" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

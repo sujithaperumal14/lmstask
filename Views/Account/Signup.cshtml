@@ -1,0 +1,26 @@
+@model LibraryManagementSystem.Models.SignupViewModel
+
+<form method="post">
+    <div>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="Name"  />
+    </div>
+    <div>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="Email"/>
+    </div>
+    <div>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="Password"  />
+    </div>
+    <div>
+        <label for="confirmPassword">Confirm Password:</label>
+        <input type="password" id="confirmPassword" name="ConfirmPassword"  />
+    </div>
+    <button type="submit">Register</button>
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <p>@TempData["ErrorMessage"]</p>
+    }
+</form>
