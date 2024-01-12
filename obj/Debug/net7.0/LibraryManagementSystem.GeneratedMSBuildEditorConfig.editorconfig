@@ -9,193 +9,195 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LibraryManagementSystem
 build_property.RootNamespace = LibraryManagementSystem
-build_property.ProjectDir = c:\Users\Dell\application\LibraryManagementSystem\
+build_property.ProjectDir = c:\Users\sujitha.perumal\Angular\library\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Dell\application\LibraryManagementSystem
+build_property.MSBuildProjectDirectory = c:\Users\sujitha.perumal\Angular\library
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Account/Signup.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Account/Signup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWdudXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Admin/AdminHomePage.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Admin/AdminHomePage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5Ib21lUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Admin/BorrowBookDetails.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Admin/BorrowBookDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQm9ycm93Qm9va0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Admin/BorrowDetails.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Admin/BorrowDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQm9ycm93RGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Admin/Index.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Book/Create.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Book/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Book/Delete.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Book/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Book/Details.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Book/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Book/Edit.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Book/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Book/Index.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Book/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Category/Environment.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Category/Environment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRW52aXJvbm1lbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Category/Fantasy.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Category/Fantasy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRmFudGFzeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Category/Horror.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Category/Horror.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSG9ycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Category/Index.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Category/MainIndex.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Category/MainIndex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcTWFpbkluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Category/Photography.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Category/Photography.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcUGhvdG9ncmFwaHkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Category/Programming.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Category/Programming.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcUHJvZ3JhbW1pbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Category/ScienceFiction.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Category/ScienceFiction.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcU2NpZW5jZUZpY3Rpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Error/Index.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Error/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Home/Index.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Home/LoginPage.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Home/LoginPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpblBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Home/Privacy.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Login/Index.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Order/Index.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Order/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Order/Payment.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Order/Payment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcUGF5bWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Order/Paymentsuccess.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Order/Paymentsuccess.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcUGF5bWVudHN1Y2Nlc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/SendMail/Index.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/SendMail/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VuZE1haWxcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Shared/Error.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/UserDetail/Create.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/UserDetail/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRldGFpbFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/UserDetail/Delete.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/UserDetail/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRldGFpbFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/UserDetail/Edit.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/UserDetail/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRldGFpbFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/UserDetail/Index.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/UserDetail/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRldGFpbFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/UserDetail/_ValidationScriptsPartial.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/UserDetail/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRldGFpbFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/User/BookDetails.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/User/BookDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxCb29rRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/User/BookIndex.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/User/BookIndex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxCb29rSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/User/Edit.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/User/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/User/Indexs.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/User/Indexs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/User/IssueBookDetails.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/User/IssueBookDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJc3N1ZUJvb2tEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/User/UserHomePage.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/User/UserHomePage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVc2VySG9tZVBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/_ViewImports.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/_ViewStart.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Login/AdminLogin.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Login/AdminLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQWRtaW5Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-dzrj2pu9pm
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Login/AdminRegister.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Login/AdminRegister.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQWRtaW5SZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-zlsqdq4c2h
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Login/UserLogin.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Login/UserLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cVXNlckxvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-tdqiyum0nz
 
-[c:/Users/Dell/application/LibraryManagementSystem/Views/Shared/_Layout.cshtml]
+[c:/Users/sujitha.perumal/Angular/library/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-spbznog2vl
